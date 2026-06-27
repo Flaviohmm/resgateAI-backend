@@ -1,0 +1,6 @@
+br\com\resgateai\service\CampaignAIServiceTest.class
+br\com\resgateai\service\CampaignDispatchServiceTest.class
+br\com\resgateai\service\RoutingServiceTest.class
+br\com\resgateai\service\SustainabilityServiceTest.class
+br\com\resgateai\service\LearningLoopServiceTest.class
+br\com\resgateai\service\TransformationAIServiceTest.class
